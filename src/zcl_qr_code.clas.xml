@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_QR_CODE</CLSNAME>
+    <LANGU>R</LANGU>
+    <DESCRIPT>Вывод QR кодов</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_QR_CODE</CLSNAME>
+     <CMPNAME>BDS_TO_BMP</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>BDS-&gt;BMP</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_QR_CODE</CLSNAME>
+     <CMPNAME>GET_BDS_BITMAP</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Построить битмап в формате BDS</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
